@@ -2,7 +2,7 @@
 # Building a Deep Learning Model for Contextual Advertising
 # Predicting Health and Wellness News Articles
 
-
+![Health and Wellness](readme_image.webp)
 
 
 ## Overview
